@@ -3,7 +3,7 @@
 
 <div>
 <a href="https://github.com/YtaloSantoss">
-<img height="154em" src="https://github-readme-stats.vercel.app/api?username=ytalo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ytalo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark"/></a>
 <a href="https://github.com/YtaloSantoss">
-<img height="154em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=github_dark"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=github_dark"/></a>
 </div>
