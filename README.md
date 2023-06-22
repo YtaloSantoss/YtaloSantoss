@@ -1,15 +1,18 @@
 # <h1 align="center">Oii! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eu sou Ytalo</h1>
 <div align="center">
   <a href="https://github.com/YtaloSantoss" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" target="_blank"></a>
-  <a href="##" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin" target="_blank"></a>
 </div>
 
 ### about me
 * Sou desenvolvedor Front-end
 * Atualmente estudo tecnologias de Desenvolvimento web
-* you can find me here too
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](aqui o link do meu portifolio)
+* Acesse meu portfólio pessoal:[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](aqui o link do meu portifolio)
+
+## 📞 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinybergamo/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5579999958902)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ytalomateus87@gmail.com)
+
 
 <div align="center"><h2>Languages and Tools:</h2></div>
 <div style="display: inline_block" align="center" >
