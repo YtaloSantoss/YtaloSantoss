@@ -9,7 +9,7 @@
 * Atualmente estudo tecnologias de Desenvolvimento web
 * you can find me here too
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](aqui o link do meu portifolio)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5579999958902)
 
 <div align="center"><h2>Languages and Tools:</h2></div>
 <div style="display: inline_block" align="center" >
