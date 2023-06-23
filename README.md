@@ -3,7 +3,7 @@
   <a href="https://github.com/YtaloSantoss" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" target="_blank"></a>
 </div>
 
-### about me
+### 🌟about me
 * Sou desenvolvedor Front-end.
 * Atualmente estudo tecnologias de Desenvolvimento web.
 * Acesse meu portfólio pessoal:[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](aqui o link do meu portifolio)
@@ -14,7 +14,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ytalomateus87@gmail.com)
 
 
-<div align="center"><h2>Languages and Tools:</h2></div>
+<div align="center"><h2>🚀Languages and Tools🚀</h2></div>
 <div style="display: inline_block" align="center" >
   <img height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
