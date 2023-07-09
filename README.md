@@ -26,5 +26,5 @@
   <img height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
  <!--<img height="60" width="50"  src="" />-->
 </div>
-<!--
-![GitHub Snake dark](https://github.com/vinybergamo/vinybergamo/blob/output/github-contribution-grid-snake.svg)*/-->
+
+![GitHub Snake dark](https://github.com/vinybergamo/vinybergamo/blob/output/github-contribution-grid-snake.svg)
