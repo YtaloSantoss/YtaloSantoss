@@ -26,6 +26,9 @@
   <img height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
  <!--<img height="60" width="50"  src="" />-->
 </div>
+<br/>
+<br/>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YtaloSantoss&bg_color=292c34&color=ffffff&line=5fd6f7&point=5fd6d7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
