@@ -9,7 +9,9 @@
 ### 🌟about me
 * Sou desenvolvedor Front-end.
 * Atualmente estudo tecnologias de Desenvolvimento web.
-* Acesse meu portfólio pessoal:[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-ytalo.netlify.app)
+* Acesse meu portfólio logo abaixo:
+##  
+ [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-ytalo.netlify.app)
 <br/>
 <br/>
 
