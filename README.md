@@ -1,4 +1,5 @@
-# <h1 align="center">Oii! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eu sou Ytalo</h1>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+Welcome!😊;I'm+Ytalo😊;&duration=5000&background=FFFFFF00&size=40&width=1000&center=true&vCenter=true&height=70&color=24292F&font=Roboto)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/YtaloSantoss" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" target="_blank"></a>
 </div>
@@ -29,7 +30,7 @@
 <br/>
 <br/>
 
-<!-- ![Snake animation](https://github.com/YtaloSantoss/YtaloSantoss/blob/output/github-contribution-grid-snake.svg)   -->
+<!--![Snake animation](https://github.com/YtaloSantoss/YtaloSantoss/blob/output/github-contribution-grid-snake.svg) -->
 
 
  
@@ -37,4 +38,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YtaloSantoss&bg_color=292c34&color=ffffff&line=5fd6f7&point=5fd6d7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting🚀&duration=5000&background=FFFFFF00&size=40&width=1000&center=true&vCenter=true&height=70&color=003140&font=Roboto)](https://git.io/typing-svg)
 
