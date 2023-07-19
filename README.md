@@ -27,7 +27,7 @@
  <!--<img height="60" width="50"  src="" />-->
 </div>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YtaloSantoss&bg_color=000000&color=00e1ff&line=ffffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YtaloSantoss&bg_color=292c34&color=ffffff&line=5fd6f7&point=5fd6d7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
