@@ -1,4 +1,5 @@
-# <h1 align="center">Oii! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eu sou Ytalo</h1>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi👋,+Welcome!😊;I'm+Ytalo😊;&duration=5000&background=FFFFFF00&size=40&width=1000&center=true&vCenter=true&height=70&color=24292F&font=Roboto)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/YtaloSantoss" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" target="_blank"></a>
 </div>
