@@ -38,18 +38,16 @@
 
 <!--![Snake animation](https://github.com/YtaloSantoss/YtaloSantoss/blob/output/github-contribution-grid-snake.svg) -->
 
+   <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
 
+  
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting😊&duration=5000&background=FFFFFF00&size=40&width=1000&center=true&vCenter=true&height=70&color=003140&font=Roboto)](https://git.io/typing-svg)
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YtaloSantoss&bg_color=292c34&color=ffffff&line=5fd6f7&point=5fd6d7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
- ![Snake animation](https://github.com/YtaloSantoss/YtaloSantoss/blob/output/github-contribution-grid-snake.svg)
 
 
