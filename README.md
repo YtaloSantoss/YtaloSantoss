@@ -7,8 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/> 
 
 ### 🌟about me
-* Sou desenvolvedor Front-end.
-* Atualmente estudo tecnologias de Desenvolvimento web.
+* Sou desenvolvedor Chat Bots.
 * Acesse meu portfólio logo abaixo:
 ##  
  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-ytalo.netlify.app)
